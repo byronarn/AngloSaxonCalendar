@@ -1,4 +1,4 @@
-This script, [ascal-md.py]() creates a Markdown file with the dates for my reconstructed calendar for the specified year.
+This script, [ascal-md.py](https://github.com/byronpendason/ascal-md.py/blob/1c45a6bf713e5cfa2b152a41514a272548356866/ascal-md.py) creates a Markdown file with the dates for my reconstructed calendar for the specified year.
 
 `ascal-md.py` is all you need. The only dependency that it requires is pyephem. Install this in your Python environment with `pip install pyephem`.
 
