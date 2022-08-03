@@ -27,4 +27,6 @@ Metonic Year 5: Regular year
 | Winterfylleþ | 2022-10-09 |
 | Yule | 2022/12/21 21:48:00 |
 
+For information on this calendar, see [my blog](https://www.minewyrtruman.com/anglosaxoncalendar)]
+
 [^1]: Keep in mind that in the Anglo-Saxon Calendar, all days start at sunset the day before.
