@@ -20,7 +20,7 @@ def is_intercalary(year):
 		return False
 def nextNewMoon(date):
 	nm = ephem.next_new_moon(date)
-	nm = getSunset(nm)
+	nm = getSunset(nm+1)
 	while getMoonIllum(nm) < 1:
 		nm = getSunset(nm+1)
 	nm -= 1
