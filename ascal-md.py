@@ -112,7 +112,7 @@ md += f"""
 | Winterfylleþ | {winterf} |
 | Yule | {winter} |
 
-For information on this calendar, see [my blog] (https://www.minewyrtruman.com/anglosaxoncalendar)]
+For information on this calendar, see [my blog](https://www.minewyrtruman.com/anglosaxoncalendar)
 [^1]: Keep in mind that in the Anglo-Saxon Calendar, all days start at sunset the day before.
 """
 fname = "ascal-"+str(yr)+".md"
